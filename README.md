@@ -8,7 +8,7 @@
 
 ### **Core Competencies 💡**
 
-- Tools: Python, Tableau, Power BI
+- Tools: Python, Tableau, Power BI , Excel
 - Skills: Data Cleaning , Data Visualization, Data Analysis, Dashboard Design and Development
 
 ### **⚡️ Currently ⚡️**
